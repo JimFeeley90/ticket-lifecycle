@@ -52,10 +52,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   <img src=https://i.imgur.com/h7JvejN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h2>Working the issue</h2>
+<h2>Working The Issue: The assigned agent investigates the issue, communicates with the user if necessary, and works towards finding a solution. They may update the ticket with progress notes, solutions, or requests for more information.</h2>
 <br />
 <p>
   <img src=https://i.imgur.com/3gMpJOE.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/3Yvm3H4.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h2>Resolution</h2>
+<h2>Ticket Resolution & Closure: Once the issue is resolved, the agent updates the ticket to indicate that the problem has been fixed. The ticket is then closed, and the user is notified. In some systems, users may be asked to confirm that the issue has been resolved to their satisfaction.</h2>

@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src=https://i.imgur.com/6iTTWG1.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<h2>Ticket creation</h2>
+<h2>Ticket Submission: The process begins when a user contacts the support team. They can submit a ticket through various channels, such as a web portal, email, or phone call. The user provides details about the issue they are experiencing, which might include a description, urgency, and any relevant attachments.</h2>
 </p>
 <br />
 

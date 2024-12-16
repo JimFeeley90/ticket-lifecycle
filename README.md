@@ -47,7 +47,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src=https://i.imgur.com/Kzt7pt9.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<h2>Assignment and communication</h2>
+<h2>Assignment to Support Team: The ticket is then assigned to the appropriate agent or team with the expertise required to resolve the issue. In some systems, this can be automated based on predefined rules, while in others, a support team member may manually assign the ticket.</h2>
 </p>
 <p>
   <img src=https://i.imgur.com/h7JvejN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>

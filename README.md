@@ -50,12 +50,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Assignment and communication</h2>
 </p>
 <p>
-  <img src=https://i.imgur.com/LKSWNrG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/h7JvejN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h2>Working the issue</h2>
 <br />
 <p>
-  <img src=https://i.imgur.com/8EqeGMV.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/3gMpJOE.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/3Yvm3H4.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h2>Resolution</h2>
